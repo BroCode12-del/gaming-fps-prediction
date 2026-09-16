@@ -1,0 +1,346 @@
+gpu_name,cpu_name,demand_score,resolution,preset,ray_tracing,rt_quality,upscaling,upscaling_quality,engine,game,gpu_key,cpu_key,avg_fps
+RX 470,Ryzen 9 5900X,2.6,1280x720,Ultra,False,None,None,None,Custom (Unity),Genshin Impact,rx470,ryzen95900x,59.1
+RTX 5060 Ti 16 GB,Ryzen 5 5600G,1.4,1280x720,Ultra,False,None,None,None,Custom,Sims 4,rtx5060ti16gb,ryzen55600g,161.9
+RTX 5080,Ryzen 9 3900X,6.5,1280x720,Low,False,None,None,None,Unreal Engine 4,Hogwarts Legacy,rtx5080,ryzen93900x,98.1
+RTX 3070 Ti,Ryzen 3 1200,3.5,1280x720,Medium,False,None,None,None,RAGE,GTA V,rtx3070ti,ryzen31200,106.0
+RTX 2070 SUPER,Ryzen 5 5600G,4.0,2560x1440,High,False,None,None,None,Unreal Engine 5,Fortnite,rtx2070super,ryzen55600g,21.2
+RTX 5060,Ryzen 9 3900X,1.8,1280x720,High,False,None,None,None,Unreal Engine 4,Fall Guys,rtx5060,ryzen93900x,170.6
+GTX 1070 Ti,Ryzen 3 1200,7.2,1920x1080,Ultra,False,None,None,None,CryEngine,Kingdom Come: Deliverance 2,gtx1070ti,ryzen31200,13.5
+RX 6800 XT,Ryzen 3 1200,4.5,1920x1080,Low,False,None,None,None,Unreal Engine 5,Marvel Rivals,rx6800xt,ryzen31200,61.7
+RTX 5070 Ti,Ryzen 7 5700U,2.2,1280x720,Medium,False,None,None,None,Custom,Hades II,rtx5070ti,ryzen75700u,181.7
+RX 6400,Ryzen 9 5950X,6.8,1280x720,High,True,Low,None,None,Unreal Engine 4,Star Wars Jedi: Survivor,rx6400,ryzen95950x,17.2
+GTX 1080 Ti,Ryzen 5 1600,5.0,2560x1440,Medium,False,None,None,None,ForzaTech,Forza Horizon 5,gtx1080ti,ryzen51600,24.3
+RX 7900 XT,Ryzen 5 5500U,5.0,1920x1080,Low,False,None,None,None,Custom,Total War: Warhammer III,rx7900xt,ryzen55500u,63.7
+GTX 1050 Ti,Ryzen 7 5700U,5.0,2560x1440,High,False,None,None,None,Custom,Total War: Warhammer III,gtx1050ti,ryzen75700u,9.4
+GTX 970,Ryzen 5 1600,4.8,1280x720,Ultra,False,None,None,None,Slipspace,Halo Infinite,gtx970,ryzen51600,26.1
+GTX 1080,Ryzen 5 1600,3.0,2560x1440,Low,False,None,None,None,Unreal Engine 4,It Takes Two,gtx1080,ryzen51600,45.7
+RX 9060 XT 16 GB,Ryzen 9 3900X,8.5,1920x1080,Medium,True,High,None,None,REDengine 4,Cyberpunk 2077,rx9060xt16gb,ryzen93900x,11.3
+GTX 980 Ti,Ryzen 3 1200,7.5,1280x720,Medium,False,None,FSR,Quality,AnvilNext 2.0,Assassin's Creed Shadows,gtx980ti,ryzen31200,44.4
+RTX 2070,Ryzen 7 5800H,3.6,1920x1080,High,False,None,None,None,Unreal Engine 4,PUBG,rtx2070,ryzen75800h,31.8
+RTX 4070 SUPER,Ryzen 7 5700U,4.8,1920x1080,Ultra,False,None,None,None,Unreal Engine 5,Palworld,rtx4070super,ryzen75700u,28.1
+GTX 1080 Ti,Ryzen 7 5700G,5.5,2560x1440,Medium,False,None,FSR,Performance,Unreal Engine 4,Ready or Not,gtx1080ti,ryzen75700g,36.4
+RX 7700 XT,Ryzen 3 1200,8.2,1920x1080,Ultra,True,Medium,FSR,Performance,Unreal Engine 5,Stalker 2,rx7700xt,ryzen31200,16.1
+RTX 5060 Ti 16 GB,Ryzen 5 1600,6.5,1920x1080,High,False,None,None,None,Creation Engine 2,Starfield,rtx5060ti16gb,ryzen51600,27.8
+RTX 2060 SUPER,Ryzen 5 5600G,7.0,2560x1440,High,False,None,None,None,RAGE,Red Dead Redemption 2,rtx2060super,ryzen55600g,10.9
+GTX 1660 SUPER,Ryzen 3 1200,2.2,2560x1440,Low,False,None,None,None,Source 2,Dota 2,gtx1660super,ryzen31200,45.4
+RX 5700,Ryzen 9 3900X,4.5,2560x1440,Ultra,False,None,None,None,Unreal Engine 5,Marvel Rivals,rx5700,ryzen93900x,13.1
+GTX 1660 SUPER,Ryzen 9 3900X,5.5,2560x1440,High,False,None,None,None,Unreal Engine 4,Ready or Not,gtx1660super,ryzen93900x,12.6
+RTX 5060,Ryzen 7 5700U,4.5,1920x1080,Medium,False,None,None,None,Custom,Anno 117: Pax Romana,rtx5060,ryzen75700u,44.6
+RTX 4080 SUPER,Ryzen 7 5800H,4.8,1280x720,Medium,False,None,None,None,Unreal Engine 5,Palworld,rtx4080super,ryzen75800h,115.7
+GTX 1050 Ti,Ryzen 7 5700G,2.0,1280x720,Ultra,False,None,None,None,Custom (Java),Minecraft,gtx1050ti,ryzen75700g,46.2
+GTX 1080 Ti,Ryzen 7 5700U,2.2,1920x1080,High,False,None,None,None,Custom,Hades II,gtx1080ti,ryzen75700u,65.9
+RX 7900 XTX,Ryzen 5 5500U,4.0,2560x1440,Ultra,False,None,None,None,Dagor Engine,War Thunder,rx7900xtx,ryzen55500u,23.8
+GTX 1660 Ti,Ryzen 5 1600,1.2,1280x720,High,False,None,None,None,Custom,League of Legends,gtx1660ti,ryzen51600,158.4
+RX 7700 XT,Ryzen 7 5700U,6.8,3840x2160,High,True,Low,FSR,Quality,Unreal Engine 5,Borderlands 4,rx7700xt,ryzen75700u,8.4
+RTX 5060 Ti 16 GB,Ryzen 5 5500U,8.2,3840x2160,Ultra,True,Medium,None,None,Unreal Engine 5,Stalker 2,rtx5060ti16gb,ryzen55500u,3.0
+RX 7600,Ryzen 5 PRO 5650U,1.8,3840x2160,Medium,False,None,None,None,Source 2,CS2,rx7600,ryzen5pro5650u,38.8
+GTX 980 Ti,Ryzen 5 5500U,6.8,1920x1080,Medium,False,None,FSR,Balanced,Unreal Engine 4,Star Wars Jedi: Survivor,gtx980ti,ryzen55500u,26.6
+RTX 4090,Ryzen 5 PRO 5650U,2.2,2560x1440,Ultra,False,None,None,None,Source 2,Dota 2,rtx4090,ryzen5pro5650u,42.3
+RTX 2080 Ti,Ryzen 7 5800H,6.2,3840x2160,Low,True,Low,FSR,Balanced,Decima,Horizon Forbidden West,rtx2080ti,ryzen75800h,12.1
+GTX 980,Ryzen 9 3900X,4.5,1920x1080,Ultra,False,None,None,None,IW Engine,Call of Duty: MW3,gtx980,ryzen93900x,19.7
+RTX 2060 SUPER,Ryzen 9 5900X,6.5,1920x1080,High,False,None,None,None,Unreal Engine 4,Hogwarts Legacy,rtx2060super,ryzen95900x,18.6
+RTX 5080,Ryzen 9 3900X,5.5,2560x1440,Ultra,True,Low,FSR,Balanced,REDengine 3,The Witcher 3,rtx5080,ryzen93900x,19.1
+RX 6800 XT,Ryzen 9 3900X,1.8,2560x1440,Medium,False,None,None,None,Source 2,CS2,rx6800xt,ryzen93900x,74.6
+GTX 1660 Ti,Ryzen 5 1600,2.5,1280x720,Medium,False,None,None,None,Custom,Civilization VII,gtx1660ti,ryzen51600,102.1
+GTX 980 Ti,Ryzen 7 5700U,8.2,1280x720,Medium,False,None,None,None,Unreal Engine 5,Stalker 2,gtx980ti,ryzen75700u,35.2
+RX 6600,Ryzen 3 1200,7.8,1920x1080,Medium,True,High,None,None,id Tech 7,Indiana Jones and the Great Circle,rx6600,ryzen31200,8.2
+RTX 4060 Ti 16 GB,Ryzen 5 5500U,2.2,1920x1080,Medium,False,None,None,None,Custom,Hades II,rtx4060ti16gb,ryzen55500u,93.8
+GTX 960,Ryzen 7 5800H,6.5,2560x1440,Medium,False,None,None,None,Creation Engine 2,Starfield,gtx960,ryzen75800h,9.0
+GTX 1080,Ryzen 5 5600G,5.5,2560x1440,Medium,False,None,FSR,Balanced,Frostbite,Battlefield 2042,gtx1080,ryzen55600g,26.4
+GTX 1660 Ti,Ryzen 5 PRO 5650U,5.0,1920x1080,Ultra,False,None,FSR,Balanced,ForzaTech,Forza Horizon 5,gtx1660ti,ryzen5pro5650u,24.2
+RTX 5090,Ryzen 5 PRO 5650U,5.5,2560x1440,High,False,None,None,None,Custom,Elden Ring,rtx5090,ryzen5pro5650u,24.4
+RTX 3070 Ti,Ryzen 5 PRO 5650U,7.8,2560x1440,High,False,None,FSR,Balanced,id Tech 7,Indiana Jones and the Great Circle,rtx3070ti,ryzen5pro5650u,20.9
+RTX 4080 SUPER,Ryzen 9 5950X,5.5,2560x1440,Low,False,None,None,None,Custom,Elden Ring,rtx4080super,ryzen95950x,40.3
+RTX 4060,Ryzen 9 5900X,1.8,1280x720,Low,False,None,None,None,Unreal Engine 4,Fall Guys,rtx4060,ryzen95900x,240.4
+GTX 1660 SUPER,Ryzen 7 5700U,5.0,2560x1440,Ultra,False,None,None,None,RE Engine,Resident Evil 4 Remake,gtx1660super,ryzen75700u,10.1
+GTX 1080,Ryzen 5 PRO 5650U,8.5,2560x1440,Ultra,False,None,FSR,Ultra Quality,REDengine 4,Cyberpunk 2077,gtx1080,ryzen5pro5650u,7.9
+RTX 5060,Ryzen 5 1600,7.5,2560x1440,High,False,None,None,None,AnvilNext 2.0,Assassin's Creed Shadows,rtx5060,ryzen51600,14.6
+Arc A770,Ryzen 7 5700G,7.0,3840x2160,High,False,None,None,None,RE Engine,Monster Hunter Wilds,arca770,ryzen75700g,8.1
+RTX 2080 Ti,Ryzen 3 1200,4.2,1280x720,Medium,False,None,FSR,Balanced,EGO Engine,F1 24,rtx2080ti,ryzen31200,136.2
+RTX 4080,Ryzen 3 1200,6.5,2560x1440,Low,False,None,FSR,Quality,Creation Engine 2,Starfield,rtx4080,ryzen31200,39.3
+GTX 1050 Ti,Ryzen 7 5800H,6.5,3840x2160,Medium,False,None,FSR,Ultra Quality,Unreal Engine 4,Hogwarts Legacy,gtx1050ti,ryzen75800h,4.3
+RTX 2080 SUPER,Ryzen 5 5500U,2.2,1920x1080,High,False,None,None,None,Source 2,Dota 2,rtx2080super,ryzen55500u,67.1
+RTX 5050,Ryzen 5 5600G,2.8,1280x720,Medium,False,None,None,None,AnvilNext 2.0,Rainbow Six Siege,rtx5050,ryzen55600g,130.9
+RTX 5070 Ti,Ryzen 7 5700G,2.0,1920x1080,Ultra,False,None,None,None,Custom (Java),Minecraft,rtx5070ti,ryzen75700g,87.2
+RTX 2070,Ryzen 9 5950X,5.5,2560x1440,Ultra,False,None,FSR,Balanced,Unreal Engine 4,Ready or Not,rtx2070,ryzen95950x,15.0
+RTX 5080,Ryzen 5 5600G,7.5,2560x1440,High,False,None,FSR,Quality,AnvilNext 2.0,Assassin's Creed Shadows,rtx5080,ryzen55600g,23.1
+RTX 4080,Ryzen 5 5500U,6.5,3840x2160,High,False,None,None,None,Unity,Escape from Tarkov,rtx4080,ryzen55500u,10.1
+GTX 1050 Ti,Ryzen 5 5500U,8.8,2560x1440,Low,False,None,FSR,Performance,Unreal Engine 5,Black Myth: Wukong,gtx1050ti,ryzen55500u,14.3
+RTX 3090 Ti,Ryzen 9 5900X,5.5,2560x1440,Low,False,None,None,None,Custom,Elden Ring,rtx3090ti,ryzen95900x,28.2
+RTX 5080,Ryzen 5 1600,1.8,2560x1440,High,False,None,None,None,Unreal Engine 4,Fall Guys,rtx5080,ryzen51600,77.7
+GTX 1050 Ti,Ryzen 5 1600,2.8,1920x1080,Low,False,None,None,None,AnvilNext 2.0,Rainbow Six Siege,gtx1050ti,ryzen51600,38.1
+RX 560,Ryzen 5 5500U,5.5,2560x1440,High,False,None,None,None,REDengine 3,The Witcher 3,rx560,ryzen55500u,8.0
+RTX 2080,Ryzen 7 5700G,2.0,1920x1080,Ultra,False,None,None,None,Custom (Java),Minecraft,rtx2080,ryzen75700g,51.9
+RTX 5060,Ryzen 5 5500U,6.5,1920x1080,High,True,Medium,FSR,Balanced,Unreal Engine 5,ARC Raiders,rtx5060,ryzen55500u,20.0
+RTX 2080 Ti,Ryzen 5 1600,5.0,1920x1080,Low,False,None,None,None,Custom,Total War: Warhammer III,rtx2080ti,ryzen51600,49.0
+GTX 750 Ti,Ryzen 5 5500U,1.8,2560x1440,Ultra,False,None,None,None,Source 2,CS2,gtx750ti,ryzen55500u,14.7
+RX 5500 XT,Ryzen 7 5800H,2.2,1280x720,Ultra,False,None,None,None,Source 2,Dota 2,rx5500xt,ryzen75800h,71.8
+GTX 1050 Ti,Ryzen 7 5700U,3.5,3840x2160,Medium,False,None,None,None,RAGE,GTA V,gtx1050ti,ryzen75700u,7.8
+RTX 2080,Ryzen 7 5700U,1.6,1280x720,Ultra,False,None,None,None,Custom,Hades,rtx2080,ryzen75700u,118.4
+RTX 5070,Ryzen 9 5900X,6.5,2560x1440,Medium,False,None,FSR,Balanced,Unreal Engine 5,ARC Raiders,rtx5070,ryzen95900x,31.8
+RTX 4070 Ti,Ryzen 5 5600G,9.0,3840x2160,Low,False,None,None,None,Northlight,Alan Wake 2,rtx4070ti,ryzen55600g,12.3
+RX 6400,Ryzen 5 1600,7.0,2560x1440,Ultra,False,None,None,None,RAGE,Red Dead Redemption 2,rx6400,ryzen51600,5.8
+RX 6800 XT,Ryzen 9 5950X,8.8,1280x720,Ultra,True,Medium,FSR,Balanced,Unreal Engine 5,Black Myth: Wukong,rx6800xt,ryzen95950x,23.5
+RTX 5070,Ryzen 5 1600,1.8,3840x2160,High,False,None,None,None,Unreal Engine 4,Fall Guys,rtx5070,ryzen51600,35.2
+GTX 1080 Ti,Ryzen 7 5700G,6.0,1920x1080,High,False,None,FSR,Balanced,Unreal Engine 5,The Finals,gtx1080ti,ryzen75700g,36.0
+GTX 960,Ryzen 7 5700U,5.2,1920x1080,High,False,None,None,None,Autodesk Stingray,Helldivers 2,gtx960,ryzen75700u,15.0
+GTX 1080 Ti,Ryzen 7 5800H,4.5,1280x720,Medium,False,None,FSR,Performance,IW Engine,Call of Duty: MW3,gtx1080ti,ryzen75800h,146.0
+RTX 5050,Ryzen 9 5950X,2.0,1920x1080,Medium,True,High,None,None,Custom (Java),Minecraft,rtx5050,ryzen95950x,35.4
+RTX 5070 Ti,Ryzen 9 3900X,6.8,1920x1080,Medium,False,None,FSR,Ultra Quality,Unreal Engine 5,Borderlands 4,rtx5070ti,ryzen93900x,39.7
+RTX 5070 Ti,Ryzen 7 5700G,5.5,2560x1440,High,False,None,None,None,Custom,Elden Ring,rtx5070ti,ryzen75700g,22.2
+RTX 5070,Ryzen 9 3900X,2.5,1920x1080,High,False,None,None,None,Custom,Overwatch 2,rtx5070,ryzen93900x,71.0
+RTX 5090,Ryzen 7 5800H,8.2,2560x1440,Low,False,None,FSR,Quality,Unreal Engine 5,Stalker 2,rtx5090,ryzen75800h,30.3
+RTX 5070,Ryzen 7 5800H,3.0,1920x1080,Low,False,None,None,None,Custom,World of Warcraft,rtx5070,ryzen75800h,100.7
+RTX 5060 Ti 16 GB,Ryzen 7 5800H,2.5,1920x1080,Medium,False,None,None,None,Custom,Civilization VII,rtx5060ti16gb,ryzen75800h,86.5
+GTX 1080,Ryzen 7 5700G,2.6,2560x1440,High,False,None,None,None,Custom (Unity),Genshin Impact,gtx1080,ryzen75700g,32.9
+RTX 2080 Ti,Ryzen 9 5950X,1.6,2560x1440,Ultra,False,None,None,None,Custom,Hades,rtx2080ti,ryzen95950x,43.6
+RTX 5070 Ti,Ryzen 7 5800H,4.5,1920x1080,High,False,None,FSR,Balanced,Custom,Anno 117: Pax Romana,rtx5070ti,ryzen75800h,65.0
+GTX 1050 Ti,Ryzen 5 5600G,5.0,1280x720,High,False,None,None,None,Custom,Total War: Warhammer III,gtx1050ti,ryzen55600g,27.4
+RTX 2070 SUPER,Ryzen 5 5500U,6.2,1920x1080,Low,False,None,FSR,Ultra Quality,Decima,Horizon Forbidden West,rtx2070super,ryzen55500u,34.2
+RX 7900 GRE,Ryzen 7 5800H,1.2,1280x720,Medium,False,None,None,None,Custom,League of Legends,rx7900gre,ryzen75800h,207.8
+GTX 960,Ryzen 9 5950X,6.2,1920x1080,Ultra,False,None,None,None,Decima,Horizon Forbidden West,gtx960,ryzen95950x,9.9
+GTX 960,Ryzen 5 PRO 5650U,1.6,1920x1080,High,False,None,None,None,Custom,Hades,gtx960,ryzen5pro5650u,45.6
+RTX 3070,Ryzen 9 5900X,9.0,3840x2160,High,True,Low,None,None,Northlight,Alan Wake 2,rtx3070,ryzen95900x,4.3
+GTX 1050 Ti,Ryzen 7 5700G,5.0,2560x1440,Ultra,False,None,None,None,Custom,Total War: Warhammer III,gtx1050ti,ryzen75700g,6.2
+RTX 2080 SUPER,Ryzen 7 5700U,5.5,1280x720,Ultra,False,None,None,None,Unreal Engine 4,Ready or Not,rtx2080super,ryzen75700u,35.5
+RTX 2070,Ryzen 9 3900X,7.0,1280x720,High,True,High,FSR,Ultra Quality,RE Engine,Monster Hunter Wilds,rtx2070,ryzen93900x,14.0
+RTX 2070,Ryzen 7 5700G,3.0,2560x1440,Ultra,False,None,None,None,Custom,World of Warcraft,rtx2070,ryzen75700g,20.0
+RTX 2080,Ryzen 5 PRO 5650U,4.5,2560x1440,High,True,Medium,FSR,Balanced,Custom,Anno 117: Pax Romana,rtx2080,ryzen5pro5650u,15.1
+RTX 5060,Ryzen 7 5800H,5.5,2560x1440,Low,False,None,FSR,Balanced,Unreal Engine 4,Ready or Not,rtx5060,ryzen75800h,43.3
+RX 6900 XT,Ryzen 7 5700G,5.0,3840x2160,Ultra,False,None,None,None,ForzaTech,Forza Horizon 5,rx6900xt,ryzen75700g,8.9
+RX 560,Ryzen 9 5900X,1.4,3840x2160,High,False,None,None,None,Custom,Sims 4,rx560,ryzen95900x,17.6
+RTX 4070 Ti,Ryzen 5 5600G,9.0,3840x2160,Ultra,False,None,FSR,Quality,Northlight,Alan Wake 2,rtx4070ti,ryzen55600g,7.1
+RX 6500 XT,Ryzen 3 1200,3.5,1280x720,Low,False,None,None,None,RAGE,GTA V,rx6500xt,ryzen31200,93.7
+RTX 5090,Ryzen 5 5600G,6.0,3840x2160,Low,True,Medium,FSR,Ultra Quality,Unreal Engine 5,The Finals,rtx5090,ryzen55600g,10.9
+RX 7600 XT,Ryzen 9 5900X,6.8,2560x1440,Medium,True,High,FSR,Performance,Unreal Engine 4,Star Wars Jedi: Survivor,rx7600xt,ryzen95900x,15.4
+RTX 4090,Ryzen 3 1200,1.8,1920x1080,High,False,None,None,None,Unreal Engine 4,Fall Guys,rtx4090,ryzen31200,78.7
+RTX 3090,Ryzen 5 1600,3.0,1280x720,Ultra,False,None,None,None,Custom,World of Warcraft,rtx3090,ryzen51600,99.0
+RX 6900 XT,Ryzen 5 5500U,6.5,1920x1080,Ultra,False,None,None,None,Unity,Escape from Tarkov,rx6900xt,ryzen55500u,21.8
+RX 580,Ryzen 5 5600G,2.6,3840x2160,Medium,False,None,None,None,Custom (Unity),Genshin Impact,rx580,ryzen55600g,18.6
+RTX 2070,Ryzen 5 1600,6.8,1920x1080,High,True,Low,None,None,Unreal Engine 4,Star Wars Jedi: Survivor,rtx2070,ryzen51600,12.8
+RTX 4060,Ryzen 5 5500U,4.2,1920x1080,Medium,False,None,None,None,EGO Engine,F1 24,rtx4060,ryzen55500u,41.3
+RTX 4080,Ryzen 7 5700G,1.6,1280x720,Ultra,False,None,None,None,Unreal Engine 3,Rocket League,rtx4080,ryzen75700g,191.0
+RTX 2070,Ryzen 7 5700G,4.0,3840x2160,Medium,False,None,None,None,id Tech 7,Doom Eternal,rtx2070,ryzen75700g,14.2
+GTX 1050 Ti,Ryzen 5 5600G,2.6,3840x2160,Medium,False,None,None,None,Custom (Unity),Genshin Impact,gtx1050ti,ryzen55600g,10.5
+RX 7800 XT,Ryzen 5 5600G,4.0,1920x1080,High,True,Low,FSR,Balanced,Unreal Engine 5,Fortnite,rx7800xt,ryzen55600g,52.5
+RTX 4090,Ryzen 9 5950X,7.8,3840x2160,Ultra,True,Medium,FSR,Balanced,id Tech 7,Indiana Jones and the Great Circle,rtx4090,ryzen95950x,4.9
+RTX 3070,Ryzen 5 5600G,6.0,1920x1080,High,False,None,FSR,Quality,Unreal Engine 5,The Finals,rtx3070,ryzen55600g,34.7
+GTX 1080,Ryzen 5 1600,6.0,1920x1080,High,False,None,FSR,Performance,Unreal Engine 5,The Finals,gtx1080,ryzen51600,39.1
+GTX 1080,Ryzen 5 1600,4.5,1920x1080,High,False,None,None,None,Custom,Anno 117: Pax Romana,gtx1080,ryzen51600,29.5
+RX 9060 XT 8 GB,Ryzen 5 1600,3.5,2560x1440,High,False,None,None,None,RAGE,GTA V,rx9060xt8gb,ryzen51600,30.7
+GTX 750 Ti,Ryzen 7 5800H,4.0,2560x1440,Ultra,False,None,None,None,Unreal Engine 5,Fortnite,gtx750ti,ryzen75800h,6.3
+RX 6800,Ryzen 5 1600,4.0,2560x1440,High,True,Low,None,None,Unreal Engine 5,Fortnite,rx6800,ryzen51600,16.9
+RTX 2080 Ti,Ryzen 9 3900X,4.5,3840x2160,High,True,Medium,None,None,IW Engine,Call of Duty: MW3,rtx2080ti,ryzen93900x,6.3
+RTX 3070 Ti,Ryzen 3 1200,7.8,3840x2160,Medium,True,Low,FSR,Balanced,id Tech 7,Indiana Jones and the Great Circle,rtx3070ti,ryzen31200,9.3
+GTX 1070 Ti,Ryzen 7 5700G,5.0,2560x1440,High,False,None,FSR,Performance,ForzaTech,Forza Horizon 5,gtx1070ti,ryzen75700g,25.6
+GTX 1650 SUPER,Ryzen 5 5500U,6.8,3840x2160,Low,False,None,FSR,Ultra Quality,Unreal Engine 4,Star Wars Jedi: Survivor,gtx1650super,ryzen55500u,8.6
+RTX 2070,Ryzen 5 5600G,3.0,3840x2160,Medium,False,None,None,None,Source,Apex Legends,rtx2070,ryzen55600g,15.5
+RX 6800,Ryzen 9 5950X,7.0,1280x720,High,False,None,None,None,RAGE,Red Dead Redemption 2,rx6800,ryzen95950x,39.1
+RTX 2070,Ryzen 9 3900X,7.8,3840x2160,Ultra,False,None,FSR,Balanced,id Tech 7,Indiana Jones and the Great Circle,rtx2070,ryzen93900x,5.5
+RTX 4070 Ti SUPER,Ryzen 7 5700U,6.0,1920x1080,High,False,None,FSR,Balanced,Unreal Engine 5,The Finals,rtx4070tisuper,ryzen75700u,51.7
+RTX 2080,Ryzen 9 3900X,4.5,3840x2160,Ultra,False,None,None,None,Custom,Diablo 4,rtx2080,ryzen93900x,7.9
+GTX 950,Ryzen 9 5900X,5.5,3840x2160,Medium,False,None,FSR,Ultra Quality,Unreal Engine 4,Ready or Not,gtx950,ryzen95900x,4.9
+RTX 3090,Ryzen 9 5900X,2.0,3840x2160,Ultra,True,Low,None,None,Custom (Java),Minecraft,rtx3090,ryzen95900x,15.9
+RX 7800 XT,Ryzen 9 3900X,5.5,2560x1440,High,False,None,None,None,Frostbite,Battlefield 2042,rx7800xt,ryzen93900x,24.0
+RX 6900 XT,Ryzen 5 PRO 5650U,4.0,1280x720,Ultra,False,None,None,None,Dagor Engine,War Thunder,rx6900xt,ryzen5pro5650u,66.9
+RTX 4080 SUPER,Ryzen 5 5500U,6.5,3840x2160,Low,True,Medium,None,None,Unreal Engine 4,Hogwarts Legacy,rtx4080super,ryzen55500u,8.8
+RX 6600 XT,Ryzen 7 5700G,5.0,2560x1440,High,False,None,None,None,Divinity Engine 4.0,Baldur's Gate 3,rx6600xt,ryzen75700g,17.3
+RTX 5070,Ryzen 9 5900X,6.5,1920x1080,Ultra,False,None,None,None,Unity,Escape from Tarkov,rtx5070,ryzen95900x,20.2
+RX 9060 XT 16 GB,Ryzen 9 5950X,6.5,2560x1440,High,False,None,None,None,Creation Engine 2,Starfield,rx9060xt16gb,ryzen95950x,17.3
+RTX 4060,Ryzen 5 PRO 5650U,2.6,1920x1080,High,False,None,None,None,Custom (Unity),Genshin Impact,rtx4060,ryzen5pro5650u,58.1
+RX 480,Ryzen 7 5700G,5.5,1280x720,Ultra,False,None,None,None,Custom,Elden Ring,rx480,ryzen75700g,26.9
+RTX 5070,Ryzen 5 PRO 5650U,4.5,1920x1080,High,True,High,FSR,Performance,IW Engine,Call of Duty: MW3,rtx5070,ryzen5pro5650u,33.1
+GTX 1080 Ti,Ryzen 5 1600,2.8,1920x1080,Medium,False,None,None,None,AnvilNext 2.0,Rainbow Six Siege,gtx1080ti,ryzen51600,65.7
+RTX 5080,Ryzen 5 1600,5.8,1920x1080,High,False,None,None,None,Insomniac Engine,Spider-Man Remastered,rtx5080,ryzen51600,37.6
+RX 590,Ryzen 5 1600,5.0,1920x1080,Low,False,None,None,None,ForzaTech,Forza Horizon 5,rx590,ryzen51600,40.9
+GTX 1660 Ti,Ryzen 9 5950X,3.6,1920x1080,Medium,False,None,None,None,Unreal Engine 4,PUBG,gtx1660ti,ryzen95950x,37.8
+RTX 2080 Ti,Ryzen 5 5600G,5.0,2560x1440,High,True,High,FSR,Quality,ForzaTech,Forza Horizon 5,rtx2080ti,ryzen55600g,9.6
+GTX 1650 SUPER,Ryzen 3 1200,6.2,2560x1440,High,False,None,None,None,Decima,Horizon Forbidden West,gtx1650super,ryzen31200,10.8
+RTX 4080,Ryzen 5 5500U,1.6,1920x1080,High,False,None,None,None,Custom,Hades,rtx4080,ryzen55500u,123.7
+RTX 5090,Ryzen 3 1200,5.0,3840x2160,High,False,None,None,None,Custom,Total War: Warhammer III,rtx5090,ryzen31200,13.5
+RTX 2080 SUPER,Ryzen 7 5700U,1.4,3840x2160,Low,False,None,None,None,Custom,Sims 4,rtx2080super,ryzen75700u,51.0
+RTX 2060 SUPER,Ryzen 9 5950X,4.0,1280x720,Medium,False,None,None,None,Dagor Engine,War Thunder,rtx2060super,ryzen95950x,67.0
+RX 6650 XT,Ryzen 5 1600,5.5,3840x2160,Medium,True,High,None,None,REDengine 3,The Witcher 3,rx6650xt,ryzen51600,4.5
+RX 590,Ryzen 9 3900X,5.8,3840x2160,Low,False,None,FSR,Quality,Insomniac Engine,Spider-Man Remastered,rx590,ryzen93900x,13.0
+RTX 2070,Ryzen 7 5700G,1.8,3840x2160,Ultra,False,None,None,None,Source 2,CS2,rtx2070,ryzen75700g,17.5
+RTX 4070 Ti,Ryzen 3 1200,9.0,1280x720,Medium,False,None,FSR,Quality,Northlight,Alan Wake 2,rtx4070ti,ryzen31200,62.7
+RTX 5080,Ryzen 5 1600,4.5,2560x1440,High,True,High,FSR,Performance,IW Engine,Call of Duty: MW3,rtx5080,ryzen51600,24.7
+RTX 2080,Ryzen 5 5600G,7.0,3840x2160,Medium,True,High,None,None,RE Engine,Monster Hunter Wilds,rtx2080,ryzen55600g,3.3
+GTX 1660 Ti,Ryzen 5 5600G,7.0,1920x1080,Ultra,False,None,None,None,RE Engine,Monster Hunter Wilds,gtx1660ti,ryzen55600g,10.4
+RTX 3090,Ryzen 9 3900X,3.6,1920x1080,High,False,None,None,None,Unreal Engine 4,PUBG,rtx3090,ryzen93900x,53.2
+GTX 1080,Ryzen 5 PRO 5650U,8.8,3840x2160,Low,False,None,FSR,Quality,Unreal Engine 5,Black Myth: Wukong,gtx1080,ryzen5pro5650u,9.6
+GTX 1630,Ryzen 7 5800H,4.8,3840x2160,Medium,False,None,None,None,Unreal Engine 5,Palworld,gtx1630,ryzen75800h,5.6
+RTX 4060 Ti 16 GB,Ryzen 5 PRO 5650U,6.8,1920x1080,Ultra,True,High,FSR,Quality,Unreal Engine 5,Borderlands 4,rtx4060ti16gb,ryzen5pro5650u,9.2
+RTX 4080,Ryzen 7 5700G,4.2,1920x1080,Ultra,True,Medium,None,None,EGO Engine,F1 24,rtx4080,ryzen75700g,23.1
+RTX 5070,Ryzen 5 5600G,6.5,1920x1080,Medium,False,None,FSR,Balanced,Creation Engine 2,Starfield,rtx5070,ryzen55600g,53.3
+GTX 1050 Ti,Ryzen 7 5700G,6.5,2560x1440,Low,False,None,FSR,Balanced,Unreal Engine 5,ARC Raiders,gtx1050ti,ryzen75700g,16.0
+RTX 3070,Ryzen 9 3900X,6.0,1280x720,Medium,True,High,FSR,Balanced,Unreal Engine 5,The Finals,rtx3070,ryzen93900x,40.0
+RTX 2070,Ryzen 7 5800H,7.0,2560x1440,Ultra,False,None,None,None,RAGE,Red Dead Redemption 2,rtx2070,ryzen75800h,7.9
+RTX 4060,Ryzen 3 1200,6.5,1920x1080,High,False,None,FSR,Performance,Creation Engine 2,Starfield,rtx4060,ryzen31200,42.1
+RX 7900 XT,Ryzen 7 5700U,1.6,2560x1440,Low,False,None,None,None,Custom,Hades,rx7900xt,ryzen75700u,120.6
+RTX 2080 SUPER,Ryzen 5 5500U,4.0,2560x1440,Medium,False,None,None,None,id Tech 7,Doom Eternal,rtx2080super,ryzen55500u,26.9
+RTX 2080,Ryzen 7 5800H,3.0,3840x2160,Ultra,False,None,None,None,Source,Apex Legends,rtx2080,ryzen75800h,12.0
+RTX 5050,Ryzen 5 1600,2.5,1920x1080,Medium,False,None,None,None,Custom,Overwatch 2,rtx5050,ryzen51600,63.6
+RX 5600 XT,Ryzen 5 5500U,5.5,3840x2160,Low,False,None,FSR,Balanced,Unreal Engine 4,Ready or Not,rx5600xt,ryzen55500u,18.8
+RTX 3070,Ryzen 5 1600,5.5,3840x2160,High,True,High,FSR,Balanced,Unreal Engine 4,Ready or Not,rtx3070,ryzen51600,6.2
+RTX 5080,Ryzen 7 5800H,1.8,1280x720,Low,False,None,None,None,Unreal Engine 4,Fall Guys,rtx5080,ryzen75800h,186.2
+RTX 4060 Ti 16 GB,Ryzen 5 1600,7.0,2560x1440,Ultra,False,None,FSR,Balanced,RE Engine,Monster Hunter Wilds,rtx4060ti16gb,ryzen51600,15.9
+RTX 5090,Ryzen 7 5700G,6.5,2560x1440,Ultra,False,None,FSR,Performance,Unreal Engine 5,ARC Raiders,rtx5090,ryzen75700g,24.8
+RTX 5070,Ryzen 5 5500U,4.5,3840x2160,High,False,None,None,None,Custom,Diablo 4,rtx5070,ryzen55500u,12.1
+RTX 4070 Ti,Ryzen 5 1600,9.0,1280x720,Medium,False,None,None,None,Northlight,Alan Wake 2,rtx4070ti,ryzen51600,57.2
+RTX 4060,Ryzen 7 5700G,5.8,1920x1080,High,False,None,None,None,Insomniac Engine,Spider-Man Remastered,rtx4060,ryzen75700g,24.7
+RX 7800 XT,Ryzen 9 3900X,2.0,1280x720,High,False,None,None,None,Custom (Java),Minecraft,rx7800xt,ryzen93900x,183.3
+RTX 5060,Ryzen 7 5700U,7.0,2560x1440,Medium,False,None,None,None,RAGE,Red Dead Redemption 2,rtx5060,ryzen75700u,17.8
+RTX 4070 Ti SUPER,Ryzen 5 1600,6.8,3840x2160,High,True,High,None,None,Unreal Engine 4,Star Wars Jedi: Survivor,rtx4070tisuper,ryzen51600,3.9
+RX 6700 XT,Ryzen 5 1600,9.0,1920x1080,Medium,True,Low,FSR,Balanced,Northlight,Alan Wake 2,rx6700xt,ryzen51600,19.2
+GTX 1650 SUPER,Ryzen 5 1600,5.0,2560x1440,High,False,None,None,None,Custom,Total War: Warhammer III,gtx1650super,ryzen51600,12.0
+RTX 2070 SUPER,Ryzen 5 5500U,4.2,1280x720,Medium,False,None,FSR,Performance,EGO Engine,F1 24,rtx2070super,ryzen55500u,134.0
+GTX 980,Ryzen 3 1200,7.2,1920x1080,High,False,None,None,None,CryEngine,Kingdom Come: Deliverance 2,gtx980,ryzen31200,15.3
+GTX 970,Ryzen 7 5700U,5.0,2560x1440,High,False,None,None,None,Divinity Engine 4.0,Baldur's Gate 3,gtx970,ryzen75700u,13.1
+RX 6900 XT,Ryzen 5 PRO 5650U,6.0,1920x1080,Ultra,True,Medium,None,None,Unreal Engine 5,The Finals,rx6900xt,ryzen5pro5650u,11.0
+RTX 2070 SUPER,Ryzen 9 5950X,5.2,2560x1440,Medium,False,None,None,None,Autodesk Stingray,Helldivers 2,rtx2070super,ryzen95950x,20.7
+RX 570,Ryzen 9 5900X,4.8,3840x2160,High,False,None,FSR,Balanced,Unreal Engine 5,Palworld,rx570,ryzen95900x,10.6
+RTX 2080,Ryzen 7 5800H,3.0,3840x2160,High,False,None,None,None,Source,Apex Legends,rtx2080,ryzen75800h,15.0
+RTX 5060,Ryzen 7 5700U,3.6,1280x720,High,False,None,None,None,Unreal Engine 4,PUBG,rtx5060,ryzen75700u,94.4
+RTX 5070 Ti,Ryzen 3 1200,4.0,1280x720,High,True,High,FSR,Balanced,Unreal Engine 5,Fortnite,rtx5070ti,ryzen31200,63.6
+RX 6500 XT,Ryzen 3 1200,6.5,2560x1440,Medium,False,None,FSR,Balanced,Unreal Engine 4,Hogwarts Legacy,rx6500xt,ryzen31200,16.7
+RTX 4080 SUPER,Ryzen 9 5900X,2.5,1920x1080,High,False,None,None,None,Custom,Civilization VII,rtx4080super,ryzen95900x,78.8
+RX 6500 XT,Ryzen 5 PRO 5650U,7.0,1280x720,High,False,None,FSR,Quality,RE Engine,Monster Hunter Wilds,rx6500xt,ryzen5pro5650u,35.6
+RTX 2080,Ryzen 7 5800H,1.6,3840x2160,Low,False,None,None,None,Custom,Hades,rtx2080,ryzen75800h,43.5
+RTX 2070,Ryzen 5 PRO 5650U,5.0,2560x1440,Medium,False,None,None,None,Custom,Total War: Warhammer III,rtx2070,ryzen5pro5650u,17.5
+RTX 3090,Ryzen 7 5700G,2.8,1920x1080,Ultra,False,None,None,None,AnvilNext 2.0,Rainbow Six Siege,rtx3090,ryzen75700g,55.5
+RTX 5070,Ryzen 9 5900X,5.5,1920x1080,High,True,Medium,FSR,Quality,Frostbite,Battlefield 2042,rtx5070,ryzen95900x,24.1
+RTX 3090,Ryzen 7 5700U,3.0,2560x1440,Low,False,None,None,None,Source,Apex Legends,rtx3090,ryzen75700u,66.7
+RTX 2080 SUPER,Ryzen 5 1600,7.0,2560x1440,High,True,High,FSR,Quality,RE Engine,Monster Hunter Wilds,rtx2080super,ryzen51600,6.2
+GTX 1660,Ryzen 9 3900X,5.0,2560x1440,Medium,False,None,None,None,Divinity Engine 4.0,Baldur's Gate 3,gtx1660,ryzen93900x,16.0
+RTX 2080 SUPER,Ryzen 7 5700G,5.2,2560x1440,High,False,None,None,None,Autodesk Stingray,Helldivers 2,rtx2080super,ryzen75700g,15.4
+RTX 2080 Ti,Ryzen 5 5500U,1.5,1920x1080,Medium,False,None,None,None,Unreal Engine 4,Valorant,rtx2080ti,ryzen55500u,127.7
+RX 6900 XT,Ryzen 5 1600,5.0,1280x720,Medium,False,None,FSR,Balanced,ForzaTech,Forza Horizon 5,rx6900xt,ryzen51600,117.0
+RTX 2070 SUPER,Ryzen 9 5900X,8.5,1920x1080,Medium,False,None,None,None,REDengine 4,Cyberpunk 2077,rtx2070super,ryzen95900x,18.4
+RTX 3070,Ryzen 5 PRO 5650U,5.2,3840x2160,Medium,False,None,None,None,Autodesk Stingray,Helldivers 2,rtx3070,ryzen5pro5650u,12.7
+RX 6800,Ryzen 9 3900X,3.0,2560x1440,Ultra,False,None,None,None,Unreal Engine 4,It Takes Two,rx6800,ryzen93900x,26.9
+GTX 1080 Ti,Ryzen 7 5700U,1.6,3840x2160,Medium,False,None,None,None,Custom,Hades,gtx1080ti,ryzen75700u,35.5
+GTX 950,Ryzen 9 3900X,3.0,1920x1080,Medium,False,None,None,None,Unreal Engine 4,It Takes Two,gtx950,ryzen93900x,29.1
+RTX 3090,Ryzen 3 1200,4.2,3840x2160,Low,True,High,None,None,EGO Engine,F1 24,rtx3090,ryzen31200,10.2
+RTX 4080,Ryzen 7 5700G,5.5,1280x720,High,False,None,FSR,Balanced,REDengine 3,The Witcher 3,rtx4080,ryzen75700g,98.3
+RTX 2060 SUPER,Ryzen 5 5600G,5.0,1920x1080,Low,False,None,None,None,Custom,Total War: Warhammer III,rtx2060super,ryzen55600g,39.0
+GTX 1660 Ti,Ryzen 3 1200,2.2,3840x2160,Medium,False,None,None,None,Custom,Hades II,gtx1660ti,ryzen31200,19.3
+GTX 1080 Ti,Ryzen 9 5900X,1.4,2560x1440,Ultra,False,None,None,None,Custom,Sims 4,gtx1080ti,ryzen95900x,46.6
+RX 460,Ryzen 9 5900X,2.2,1280x720,High,False,None,None,None,Custom,Hades II,rx460,ryzen95900x,57.9
+RTX 4070 Ti,Ryzen 9 5900X,6.5,2560x1440,High,False,None,None,None,Unity,Escape from Tarkov,rtx4070ti,ryzen95900x,18.0
+RTX 5070 Ti,Ryzen 7 5800H,8.5,3840x2160,Low,False,None,FSR,Ultra Quality,REDengine 4,Cyberpunk 2077,rtx5070ti,ryzen75800h,13.8
+RX 580,Ryzen 7 5700U,9.0,2560x1440,High,False,None,None,None,Northlight,Alan Wake 2,rx580,ryzen75700u,8.1
+RTX 4080,Ryzen 7 5800H,6.0,2560x1440,Low,False,None,FSR,Quality,Unreal Engine 5,The Finals,rtx4080,ryzen75800h,42.9
+RX 470,Ryzen 7 5800H,5.2,1920x1080,Low,False,None,None,None,Autodesk Stingray,Helldivers 2,rx470,ryzen75800h,31.9
+GTX 950,Ryzen 5 5600G,8.2,2560x1440,High,False,None,None,None,Unreal Engine 5,Stalker 2,gtx950,ryzen55600g,4.6
+RTX 5050,Ryzen 5 1600,5.5,3840x2160,Low,True,Medium,FSR,Quality,Unreal Engine 4,Ready or Not,rtx5050,ryzen51600,9.5
+RTX 5070 Ti,Ryzen 9 3900X,1.2,1280x720,Low,False,None,None,None,Custom,League of Legends,rtx5070ti,ryzen93900x,221.6
+RTX 4080,Ryzen 5 1600,4.8,1920x1080,Medium,False,None,None,None,Slipspace,Halo Infinite,rtx4080,ryzen51600,49.4
+RTX 2070 SUPER,Ryzen 9 3900X,1.6,1920x1080,High,False,None,None,None,Custom,Hades,rtx2070super,ryzen93900x,82.6
+RTX 3070,Ryzen 5 PRO 5650U,6.8,1920x1080,High,False,None,None,None,Unreal Engine 5,Borderlands 4,rtx3070,ryzen5pro5650u,23.3
+RTX 5060 Ti 16 GB,Ryzen 5 1600,6.8,3840x2160,High,True,High,FSR,Performance,Unreal Engine 4,Star Wars Jedi: Survivor,rtx5060ti16gb,ryzen51600,6.4
+RX 6800,Ryzen 7 5800H,3.0,1920x1080,High,False,None,None,None,Custom,World of Warcraft,rx6800,ryzen75800h,54.5
+GTX 1660,Ryzen 5 5600G,1.8,3840x2160,High,False,None,None,None,Unreal Engine 4,Fall Guys,gtx1660,ryzen55600g,18.4
+GTX 1080,Ryzen 5 PRO 5650U,5.5,3840x2160,Medium,False,None,None,None,REDengine 3,The Witcher 3,gtx1080,ryzen5pro5650u,10.4
+RTX 3090,Ryzen 5 5500U,2.5,2560x1440,Ultra,False,None,None,None,Custom,Overwatch 2,rtx3090,ryzen55500u,35.4
+RTX 5060,Ryzen 7 5700G,4.8,1280x720,Ultra,False,None,None,None,Slipspace,Halo Infinite,rtx5060,ryzen75700g,45.4
+RX 7900 GRE,Ryzen 9 3900X,8.2,3840x2160,Ultra,False,None,FSR,Balanced,Unreal Engine 5,Stalker 2,rx7900gre,ryzen93900x,9.1
+GTX 1080 Ti,Ryzen 5 1600,5.5,2560x1440,High,False,None,FSR,Balanced,REDengine 3,The Witcher 3,gtx1080ti,ryzen51600,26.9
+RX 580,Ryzen 7 5700G,3.0,1280x720,Medium,False,None,None,None,Unreal Engine 4,It Takes Two,rx580,ryzen75700g,96.4
+GTX 1630,Ryzen 7 5700G,6.0,1280x720,Medium,False,None,FSR,Performance,Unreal Engine 5,The Finals,gtx1630,ryzen75700g,46.3
+RTX 2080 Ti,Ryzen 9 3900X,4.8,1920x1080,High,False,None,None,None,Unreal Engine 5,Palworld,rtx2080ti,ryzen93900x,31.3
+RX 9070 XT,Ryzen 9 5900X,3.0,2560x1440,Medium,False,None,None,None,Source,Apex Legends,rx9070xt,ryzen95900x,50.3
+GTX 1070 Ti,Ryzen 7 5800H,1.8,2560x1440,Low,False,None,None,None,Unreal Engine 4,Fall Guys,gtx1070ti,ryzen75800h,71.8
+RX 7700 XT,Ryzen 9 5950X,7.0,1920x1080,Medium,True,Low,FSR,Balanced,RE Engine,Monster Hunter Wilds,rx7700xt,ryzen95950x,37.2
+RX 480,Ryzen 7 5700G,1.8,1280x720,Low,False,None,None,None,Unreal Engine 4,Fall Guys,rx480,ryzen75700g,177.7
+RTX 5070,Ryzen 3 1200,4.0,3840x2160,High,False,None,None,None,id Tech 7,Doom Eternal,rtx5070,ryzen31200,15.7
+RTX 3050 6 GB,Ryzen 5 1600,2.2,2560x1440,Ultra,False,None,None,None,Source 2,Dota 2,rtx30506gb,ryzen51600,24.0
+GTX 1080,Ryzen 9 5950X,4.5,1920x1080,High,False,None,FSR,Performance,IW Engine,Call of Duty: MW3,gtx1080,ryzen95950x,53.3
+GTX 1050 Ti,Ryzen 9 3900X,7.0,1920x1080,Medium,False,None,FSR,Performance,RE Engine,Monster Hunter Wilds,gtx1050ti,ryzen93900x,21.5
+RTX 4060,Ryzen 9 5900X,4.0,1920x1080,Ultra,False,None,FSR,Performance,Unreal Engine 5,Fortnite,rtx4060,ryzen95900x,49.6
+GTX 1660 Ti,Ryzen 7 5800H,3.0,2560x1440,High,False,None,None,None,Custom,World of Warcraft,gtx1660ti,ryzen75800h,21.9
+RTX 4070 Ti SUPER,Ryzen 5 5500U,2.2,3840x2160,Ultra,False,None,None,None,Source 2,Dota 2,rtx4070tisuper,ryzen55500u,25.6
+RTX 4080,Ryzen 5 PRO 5650U,2.8,3840x2160,Ultra,False,None,None,None,AnvilNext 2.0,Rainbow Six Siege,rtx4080,ryzen5pro5650u,17.2
+Arc B580,Ryzen 5 5500U,6.5,1920x1080,High,False,None,FSR,Balanced,Creation Engine 2,Starfield,arcb580,ryzen55500u,32.0
+RX 6900 XT,Ryzen 7 5700G,1.6,1280x720,Medium,False,None,None,None,Unreal Engine 3,Rocket League,rx6900xt,ryzen75700g,198.9
+RTX 4070 Ti,Ryzen 9 5950X,1.5,2560x1440,Ultra,False,None,None,None,Unreal Engine 4,Valorant,rtx4070ti,ryzen95950x,61.5
+RTX 5060,Ryzen 7 5700U,7.0,3840x2160,Ultra,True,Medium,FSR,Balanced,RE Engine,Monster Hunter Wilds,rtx5060,ryzen75700u,4.6
+RTX 2080 Ti,Ryzen 5 5600G,1.4,3840x2160,High,False,None,None,None,Custom,Sims 4,rtx2080ti,ryzen55600g,34.7
+RTX 5090,Ryzen 5 PRO 5650U,6.5,1280x720,Low,False,None,None,None,Unreal Engine 4,Hogwarts Legacy,rtx5090,ryzen5pro5650u,95.0
+RTX 3090 Ti,Ryzen 3 1200,9.0,2560x1440,High,True,Medium,FSR,Performance,Northlight,Alan Wake 2,rtx3090ti,ryzen31200,11.4
+RX 7900 GRE,Ryzen 7 5700G,8.2,1280x720,High,False,None,FSR,Balanced,Unreal Engine 5,Stalker 2,rx7900gre,ryzen75700g,66.7
+GTX 1070 Ti,Ryzen 7 5800H,5.0,3840x2160,Medium,False,None,FSR,Balanced,RE Engine,Resident Evil 4 Remake,gtx1070ti,ryzen75800h,15.8
+RTX 2080,Ryzen 3 1200,2.2,2560x1440,High,False,None,None,None,Custom,Hades II,rtx2080,ryzen31200,34.5
+GTX 980,Ryzen 9 5900X,5.0,2560x1440,Low,False,None,None,None,ForzaTech,Forza Horizon 5,gtx980,ryzen95900x,20.6
+RTX 3070,Ryzen 7 5800H,4.5,1920x1080,High,True,High,FSR,Balanced,IW Engine,Call of Duty: MW3,rtx3070,ryzen75800h,24.9
+RX 6900 XT,Ryzen 3 1200,1.8,1280x720,Ultra,False,None,None,None,Source 2,CS2,rx6900xt,ryzen31200,109.9
+RX 5600 XT,Ryzen 7 5700U,5.0,1920x1080,Medium,False,None,None,None,Divinity Engine 4.0,Baldur's Gate 3,rx5600xt,ryzen75700u,29.2
+RTX 2080 SUPER,Ryzen 7 5700G,5.0,1920x1080,Medium,False,None,None,None,RE Engine,Resident Evil 4 Remake,rtx2080super,ryzen75700g,34.3
+RTX 4060 Ti 16 GB,Ryzen 3 1200,1.5,1280x720,Medium,False,None,None,None,Unreal Engine 4,Valorant,rtx4060ti16gb,ryzen31200,98.6
+GTX 1660 Ti,Ryzen 5 PRO 5650U,4.5,3840x2160,High,False,None,FSR,Performance,IW Engine,Call of Duty: MW3,gtx1660ti,ryzen5pro5650u,13.6
+RX 5500 XT,Ryzen 5 5600G,6.8,2560x1440,Ultra,False,None,FSR,Performance,Unreal Engine 5,Borderlands 4,rx5500xt,ryzen55600g,12.7
+RTX 4090,Ryzen 5 5600G,4.5,1920x1080,High,True,Medium,None,None,Unreal Engine 5,Marvel Rivals,rtx4090,ryzen55600g,23.3
+GTX 1660 Ti,Ryzen 9 5900X,5.8,3840x2160,Medium,False,None,None,None,Insomniac Engine,Spider-Man Remastered,gtx1660ti,ryzen95900x,7.5
+GTX 970,Ryzen 5 5600G,5.5,3840x2160,High,False,None,None,None,Frostbite,Battlefield 2042,gtx970,ryzen55600g,5.6
+GTX 750 Ti,Ryzen 5 5500U,5.0,2560x1440,High,False,None,FSR,Performance,RE Engine,Resident Evil 4 Remake,gtx750ti,ryzen55500u,13.0
+GTX 1660 Ti,Ryzen 3 1200,4.5,3840x2160,High,False,None,FSR,Quality,IW Engine,Call of Duty: MW3,gtx1660ti,ryzen31200,9.2
+RX 6900 XT,Ryzen 9 5950X,7.0,1920x1080,Ultra,True,Low,None,None,RE Engine,Monster Hunter Wilds,rx6900xt,ryzen95950x,13.4
+RTX 5070 Ti,Ryzen 5 5600G,6.5,3840x2160,Medium,False,None,None,None,Unity,Escape from Tarkov,rtx5070ti,ryzen55600g,13.9
+GTX 1660 SUPER,Ryzen 5 5500U,2.5,1280x720,Medium,False,None,None,None,Custom,Civilization VII,gtx1660super,ryzen55500u,103.3
+GTX 1660,Ryzen 5 1600,3.0,2560x1440,High,False,None,None,None,Custom,World of Warcraft,gtx1660,ryzen51600,21.3
+RTX 2070,Ryzen 7 5800H,4.5,2560x1440,High,False,None,FSR,Quality,Custom,Anno 117: Pax Romana,rtx2070,ryzen75800h,22.0
+RTX 2070 SUPER,Ryzen 5 1600,1.8,3840x2160,Medium,False,None,None,None,Source 2,CS2,rtx2070super,ryzen51600,29.7
+GTX 980 Ti,Ryzen 9 5900X,6.8,1920x1080,Ultra,False,None,FSR,Balanced,Unreal Engine 5,Borderlands 4,gtx980ti,ryzen95900x,16.9
+GTX 980 Ti,Ryzen 7 5800H,2.8,1280x720,Medium,False,None,None,None,AnvilNext 2.0,Rainbow Six Siege,gtx980ti,ryzen75800h,95.8
+RX 7900 GRE,Ryzen 9 5900X,4.0,1280x720,Low,False,None,None,None,id Tech 7,Doom Eternal,rx7900gre,ryzen95900x,146.3
+RTX 5080,Ryzen 5 PRO 5650U,2.5,1920x1080,Low,False,None,None,None,Custom,Overwatch 2,rtx5080,ryzen5pro5650u,120.6
+GTX 1080 Ti,Ryzen 9 5900X,1.2,1280x720,Medium,False,None,None,None,Custom,League of Legends,gtx1080ti,ryzen95900x,227.0
+RTX 3070,Ryzen 9 3900X,4.0,2560x1440,Ultra,False,None,None,None,Dagor Engine,War Thunder,rtx3070,ryzen93900x,18.7
+GTX 980 Ti,Ryzen 5 1600,1.6,1280x720,Ultra,False,None,None,None,Custom,Hades,gtx980ti,ryzen51600,97.6
+RTX 3070,Ryzen 9 5950X,4.0,1920x1080,High,True,Medium,FSR,Performance,Unreal Engine 5,Fortnite,rtx3070,ryzen95950x,38.3
+GTX 1050 Ti,Ryzen 5 5600G,5.0,1280x720,Ultra,False,None,None,None,Divinity Engine 4.0,Baldur's Gate 3,gtx1050ti,ryzen55600g,19.7
+RTX 3050 6 GB,Ryzen 9 5900X,4.5,1280x720,High,True,Medium,None,None,IW Engine,Call of Duty: MW3,rtx30506gb,ryzen95900x,26.3
+RTX 4090,Ryzen 5 1600,6.8,1920x1080,High,True,High,FSR,Ultra Quality,Unreal Engine 5,Borderlands 4,rtx4090,ryzen51600,12.3
+GTX 1080 Ti,Ryzen 9 5900X,7.2,2560x1440,Low,False,None,FSR,Performance,CryEngine,Kingdom Come: Deliverance 2,gtx1080ti,ryzen95900x,36.4
+RX 6600 XT,Ryzen 9 5950X,5.5,1920x1080,High,True,High,None,None,REDengine 3,The Witcher 3,rx6600xt,ryzen95950x,10.3
+RTX 2070 SUPER,Ryzen 7 5800H,3.0,1920x1080,Ultra,False,None,None,None,Custom,World of Warcraft,rtx2070super,ryzen75800h,31.7
+RTX 4060,Ryzen 5 1600,8.5,2560x1440,High,False,None,FSR,Balanced,REDengine 4,Cyberpunk 2077,rtx4060,ryzen51600,16.3
+RX 9060,Ryzen 5 5500U,2.2,1920x1080,Ultra,False,None,None,None,Custom,Hades II,rx9060,ryzen55500u,57.0
+RTX 5080,Ryzen 7 5800H,6.8,1920x1080,High,False,None,None,None,Unreal Engine 4,Star Wars Jedi: Survivor,rtx5080,ryzen75800h,34.5
+RTX 5070,Ryzen 7 5700G,5.0,2560x1440,High,True,Medium,None,None,RE Engine,Resident Evil 4 Remake,rtx5070,ryzen75700g,11.5
+RTX 4060 Ti 16 GB,Ryzen 3 1200,4.8,1920x1080,High,False,None,None,None,Unreal Engine 5,Palworld,rtx4060ti16gb,ryzen31200,36.5
+RTX 5070,Ryzen 5 PRO 5650U,6.8,3840x2160,High,True,Low,None,None,Unreal Engine 4,Star Wars Jedi: Survivor,rtx5070,ryzen5pro5650u,6.3
+GTX 1660 SUPER,Ryzen 5 1600,1.6,1280x720,High,False,None,None,None,Custom,Hades,gtx1660super,ryzen51600,127.7
+GTX 1080,Ryzen 9 5950X,9.0,1920x1080,Medium,False,None,FSR,Quality,Northlight,Alan Wake 2,gtx1080,ryzen95950x,21.7
+RX 6600,Ryzen 9 5950X,1.8,1920x1080,High,False,None,None,None,Source 2,CS2,rx6600,ryzen95950x,74.3
+RTX 5080,Ryzen 7 5700U,2.8,1280x720,High,False,None,None,None,AnvilNext 2.0,Rainbow Six Siege,rtx5080,ryzen75700u,139.6
+GTX 1080,Ryzen 7 5700U,1.4,1280x720,Medium,False,None,None,None,Custom,Sims 4,gtx1080,ryzen75700u,195.8
+RTX 5060,Ryzen 3 1200,2.2,2560x1440,Medium,False,None,None,None,Source 2,Dota 2,rtx5060,ryzen31200,53.0
+GTX 1660 Ti,Ryzen 7 5700G,7.5,1280x720,High,False,None,FSR,Performance,AnvilNext 2.0,Assassin's Creed Shadows,gtx1660ti,ryzen75700g,49.3
+GTX 1050 Ti,Ryzen 9 3900X,4.5,1280x720,Medium,False,None,FSR,Performance,IW Engine,Call of Duty: MW3,gtx1050ti,ryzen93900x,71.5
+RTX 2080,Ryzen 5 PRO 5650U,8.5,3840x2160,Medium,False,None,FSR,Quality,REDengine 4,Cyberpunk 2077,rtx2080,ryzen5pro5650u,8.4
+RTX 2060 SUPER,Ryzen 7 5700G,3.6,2560x1440,High,False,None,None,None,Unreal Engine 4,PUBG,rtx2060super,ryzen75700g,21.9
+RX 6700 XT,Ryzen 5 1600,2.5,1920x1080,High,False,None,None,None,Custom,Overwatch 2,rx6700xt,ryzen51600,54.3
+RTX 5070,Ryzen 9 3900X,1.5,3840x2160,Ultra,False,None,None,None,Unreal Engine 4,Valorant,rtx5070,ryzen93900x,29.6
+RTX 4060,Ryzen 3 1200,2.2,1920x1080,Ultra,False,None,None,None,Source 2,Dota 2,rtx4060,ryzen31200,55.0
+RTX 2070,Ryzen 9 5950X,3.5,1280x720,Low,False,None,None,None,RAGE,GTA V,rtx2070,ryzen95950x,110.1
+RTX 3090,Ryzen 7 5700G,5.5,1920x1080,High,False,None,None,None,Unreal Engine 4,Ready or Not,rtx3090,ryzen75700g,34.9
+GTX 1050 Ti,Ryzen 9 5950X,5.5,3840x2160,Ultra,False,None,FSR,Performance,Unreal Engine 4,Ready or Not,gtx1050ti,ryzen95950x,5.3
+RX 9070,Ryzen 9 3900X,4.0,1280x720,High,False,None,FSR,Quality,Unreal Engine 5,Fortnite,rx9070,ryzen93900x,104.8
+RX 6800 XT,Ryzen 9 5900X,4.5,1280x720,Medium,False,None,FSR,Balanced,IW Engine,Call of Duty: MW3,rx6800xt,ryzen95900x,126.0
+RX 9060 XT 16 GB,Ryzen 7 5700G,2.6,3840x2160,High,False,None,None,None,Custom (Unity),Genshin Impact,rx9060xt16gb,ryzen75700g,22.7
+GTX 1080,Ryzen 7 5700G,1.8,1920x1080,High,False,None,None,None,Unreal Engine 4,Fall Guys,gtx1080,ryzen75700g,64.1
+GTX 960,Ryzen 5 5500U,2.2,1280x720,Ultra,False,None,None,None,Source 2,Dota 2,gtx960,ryzen55500u,42.2
+RTX 2070 SUPER,Ryzen 5 1600,6.0,1280x720,Medium,True,Low,FSR,Ultra Quality,Unreal Engine 5,The Finals,rtx2070super,ryzen51600,37.2
+RTX 5070,Ryzen 7 5800H,3.5,3840x2160,High,False,None,None,None,RAGE,GTA V,rtx5070,ryzen75800h,16.0
+RTX 4070 SUPER,Ryzen 7 5700G,5.5,2560x1440,Medium,True,Medium,FSR,Ultra Quality,Frostbite,Battlefield 2042,rtx4070super,ryzen75700g,15.0
+RTX 5070 Ti,Ryzen 5 PRO 5650U,2.8,2560x1440,Medium,False,None,None,None,AnvilNext 2.0,Rainbow Six Siege,rtx5070ti,ryzen5pro5650u,57.0
+GTX 750 Ti,Ryzen 9 5900X,1.6,2560x1440,High,False,None,None,None,Unreal Engine 3,Rocket League,gtx750ti,ryzen95900x,20.7
+RTX 2080,Ryzen 9 3900X,5.2,3840x2160,Medium,False,None,None,None,Autodesk Stingray,Helldivers 2,rtx2080,ryzen93900x,11.9
+RX 9070 XT,Ryzen 9 5950X,5.8,3840x2160,Ultra,True,Medium,FSR,Balanced,Insomniac Engine,Spider-Man Remastered,rx9070xt,ryzen95950x,8.0
+RTX 4080,Ryzen 7 5800H,2.5,1280x720,Low,False,None,None,None,Custom,Overwatch 2,rtx4080,ryzen75800h,184.8
+RTX 3070,Ryzen 9 5900X,6.8,1920x1080,Ultra,False,None,FSR,Balanced,Unreal Engine 4,Star Wars Jedi: Survivor,rtx3070,ryzen95900x,27.6
+GTX 1660,Ryzen 3 1200,4.5,3840x2160,Medium,False,None,None,None,Custom,Diablo 4,gtx1660,ryzen31200,9.0
+GTX 1650 SUPER,Ryzen 3 1200,7.2,1920x1080,Low,False,None,FSR,Quality,CryEngine,Kingdom Come: Deliverance 2,gtx1650super,ryzen31200,27.1
+RX 5500 XT,Ryzen 7 5700U,7.8,3840x2160,High,False,None,None,None,id Tech 7,Indiana Jones and the Great Circle,rx5500xt,ryzen75700u,4.9
+GTX 780 Ti,Ryzen 5 5500U,7.8,1920x1080,High,False,None,FSR,Quality,id Tech 7,Indiana Jones and the Great Circle,gtx780ti,ryzen55500u,16.8
