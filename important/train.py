@@ -6,6 +6,8 @@ from xgboost import XGBRegressor
 from cleaning import clean_data
 from preprocessing import prepare_features
 from evaluation import evaluate_model
+from pathlib import Path
+import joblib
 
 def main():
     df = clean_data()
@@ -37,9 +39,24 @@ def main():
     xgb_model.fit(X_train_encoded, y_train_log)
 
     # Convert predictions back to FPS before evaluation.
-    xgb_pred = np.expm1(
-        xgb_model.predict(X_test_encoded)
+    xgb_pred = np.expm1(xgb_model.predict(X_test_encoded))
+
+    model_folder = Path(__file__).resolve().parent / 'models'
+    model_folder.mkdir(exist_ok=True)
+
+    joblib.dump(
+        {
+            'model': xgb_model,
+            'preprocessor': preprocessor,
+            'feature_columns': X.columns.tolist(),
+            'data': df,
+            'y_test': y_test.to_numpy(),
+            'predictions': xgb_pred
+        },
+        model_folder / 'fps_model.joblib'
     )
+
+    print("Model saved to models/fps_model.joblib")
 
     evaluate_model(y_test, xgb_pred)
 

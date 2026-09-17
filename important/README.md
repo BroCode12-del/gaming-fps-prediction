@@ -26,7 +26,7 @@ The cleaning process:
 - Handles missing graphics-setting labels.
 - Merges CPU and GPU specifications into the FPS dataset.
 
-Categorical features are one-hot encoded. Missing numeric features are imputed using training-set medians. The preprocessor is fitted only on the training data and then applied to the test data.
+Categorical features are one-hot encoded. Missing numeric features are imputed using medians. The preprocessor is fitted only on the training data and then applied to the test data.
 
 ## Model
 
@@ -85,7 +85,9 @@ MSE   203.17
 R2    0.8611
 MAPE  34.70%
 
-Linear Regression and Polynomial Regression were incompatible with this project since the graphs scatter becomes exponential instead of linear, as a result, the out output is drastically alters the accuracy of the model
+Linear and polynomial regression produced larger prediction errors with the settings tested. 
+Random forest performed better than those baselines, while tuned XGBoost achieved the lowest errors and highest R2 on the evaluated split. 
+The shape of the prediction scatter alone does not establish whether an algorithm is suitable
 
 Only Random Forest Regression was able to compete with the model with very close and fairly accurate compare to the first two, but the MAPE is double of XGBoost and R2 is less
 
@@ -93,12 +95,12 @@ Only Random Forest Regression was able to compete with the model with very close
 
  File  Purpose
 
- `cleaning.py`:  Loads, cleans, and merges the datasets |
- `preprocessing.py`: Selects features and creates the preprocessor |
- `train.py`: Splits the data and trains XGBoost |
- `evaluation.py`: Calculates metrics and plots predictions against actual FPS |
- `compare_models.py`: Runs linear, polynomial, and random forest experiments |
- `data/`: Contains the input CSV files |
+ `cleaning.py`:  Loads, cleans, and merges the datasets 
+ `preprocessing.py`: Selects features and creates the preprocessor 
+ `train.py`: Splits the data and trains XGBoost 
+ `evaluation.py`: Calculates metrics and plots predictions against actual FPS 
+ `compare_models.py`: Runs linear, polynomial, and random forest experiments 
+ `data/`: Contains the input CSV files 
 
 ## Running the project
 
@@ -119,7 +121,14 @@ Train and evaluate XGBoost:
 ```bash
 python train.py
 ```
+The desktop interface requires Tkinter, which is included with standard Python installations on Windows. 
+Run python train.py first to create models/fps_model.joblib, then launch the GUI
 
+For GUI:
+
+```bash
+python gui.py
+```
 Run the other model experiments:
 
 ```bash
@@ -139,19 +148,17 @@ Close each plot window to allow the comparison script to continue.
 ## What I learned
 
 - Joining datasets requires consistent identifiers and careful hardware matching.
-- Numeric unit conversion and missing-value handling affect model inputs.
+- Numeric unit conversion and missing value handling affect model inputs.
 - Preprocessing must be fitted on training data.
 - Log-transformed predictions must be converted back to the original units before calculating FPS errors.
 - Model selection requires consistent evaluation across the same data split.
-
+-Improve the existing desktop interface
 ## Future improvements
 
 - Expand coverage with additional verified benchmark records.
 - Use cross-validation for parameter tuning and reserve an untouched final test set.
 - Evaluate performance on unseen hardware or game groups.
 - Build an interface for selecting hardware and graphics settings.
-
-This project will be updated to make a fully working tool.
 
 ## Data preparation and attribution
 
@@ -160,8 +167,10 @@ FPS datasets. Original source links will be added once verified.
 
 Preparation included standardizing hardware names, creating matching
 keys, selecting relevant columns, and filtering records to hardware
-available across the datasets. ChatGPT helped with dataset preparation
-and parts of the implementation to make the datasets compatible.
+available across the datasets. I wrote the initial data cleaning, model training, and evaluation code.
+ChatGPT helped refine and organize the code, troubleshoot and  helped me generate the initial Tkinter interface, 
+which am now learning and I integrated into the project. ChatGPT also helped me prepare
+the columns and data of the datasets to make the datasets compatible.
 
 The processed files are project specific subsets, not unchanged copies
 of the original datasets. Original data ownership and licensing remain
